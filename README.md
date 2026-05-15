@@ -1,5 +1,5 @@
-addreservation-0/plink
-https://github.com/AdityaBHarakuni/MINI-PROJECT/blob/master/addreservation.png
+addingreservation-0/plink
+https://github.com/AdityaBHarakuni/MINI-PROJECT/blob/master/addingreservation.png
 
 allreservation-o/plink
 https://github.com/AdityaBHarakuni/MINI-PROJECT/blob/master/allreservation.png
